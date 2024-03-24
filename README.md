@@ -1,8 +1,8 @@
 # Reef Chain validator auto payout
 
-Claim and distribute validator staking rewards for your stakers automagically in Reef Finance Substrate blockchain.
+Claim and distribute validator staking rewards for your stakers automagically in Reef, a Substrate based blockchain.
 
-Made with ❤️ from ColmenaLabs_SVQ! Adapted to Reef Finance by Jimi Flowers
+Made with ❤️ from ColmenaLabs_SVQ! Adapted to Reef by Jimi Flowers
 
 ## Install
 
